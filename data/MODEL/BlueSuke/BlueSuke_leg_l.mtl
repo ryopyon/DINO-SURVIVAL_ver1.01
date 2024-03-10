@@ -1,0 +1,28 @@
+newmtl BlueSuke_body:Low
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Low_color.png
+Ni 1.00
+newmtl BlueSuke_head:Low
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Low_color.png
+Ni 1.00
+newmtl BlueSuke_leg_r:Low
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Low_color.png
+Ni 1.00
+newmtl BlueSuke_tail:Low
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Low_color.png
+Ni 1.00

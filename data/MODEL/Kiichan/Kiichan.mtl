@@ -1,0 +1,7 @@
+# Exported from Nomad Sculpt
+
+newmtl KiiChan
+ map_Kd KiiChan_color.png
+ map_roughness KiiChan_roughness.png
+ map_metallic KiiChan_metalness.png
+ map_tangentSpaceNormal KiiChan_normal.png

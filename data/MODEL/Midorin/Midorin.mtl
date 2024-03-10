@@ -1,0 +1,7 @@
+# Exported from Nomad Sculpt
+
+newmtl Head_1
+ map_Kd Head_1_color_3.png
+ map_roughness Head_1_roughness_3.png
+ map_metallic Head_1_metalness_3.png
+ map_tangentSpaceNormal Head_1_normal_3.png
